@@ -1,4 +1,7 @@
 #!/bin/bash
+# TensorFlow installation on AMD GPU with ROCm
+# AMD - All Right Reserved
+# 2022/03
 
 # Install conda
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
