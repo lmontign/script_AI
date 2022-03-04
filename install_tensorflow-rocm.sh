@@ -4,15 +4,15 @@
 # 2022/03
 
 # Install conda
-#wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
-#bash Miniconda3-latest-Linux-x86_64.sh -b -p $HOME/miniconda
-#source $HOME/miniconda/bin/activate
-#conda init
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+bash Miniconda3-latest-Linux-x86_64.sh -b -p $HOME/miniconda
+source $HOME/miniconda/bin/activate
+conda init
 
 # Create new environment
-#conda create -n tensorflow-rocm -y
-#conda activate tensorflow-rocm
-#conda install pip -y
+conda create -n tensorflow-rocm -y
+conda activate tensorflow-rocm
+conda install pip -y
 
 # Install requirements
 sudo yum update -y
