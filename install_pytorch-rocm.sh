@@ -1,5 +1,5 @@
 #!/bin/bash
-# TensorFlow installation on AMD GPU with ROCm
+# PyTorch installation on AMD GPU with ROCm
 # AMD - All Right Reserved
 # 2022/03
 
